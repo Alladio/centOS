@@ -1,0 +1,5 @@
+#configuraçãoInicial
+
+vi /etc/sudoers
+#add user with root previleges
+"userName" ALL=(ALL) ALL 
